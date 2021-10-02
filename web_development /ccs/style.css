@@ -1,0 +1,33 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  border-color:grey;
+  border-style:none;
+  border-top-style: dotted;
+  background-color:#EAF6F6;
+  width: 30%;
+  height: 20px;
+}
+
+
+h1 {
+  color: blue;
+}
+
+img:hover{
+  background-color:gold;
+}
+
+.sun{
+  background-color: red;
+}
+
+.carrot{
+  background-color: green;
+}
+
+.circular{
+  border-radius:200px
+}
